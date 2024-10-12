@@ -5,7 +5,7 @@ It's built using flask, html and css.
 
 # Setup
 1. Clone the repository:
-    git clone <(https://github.com/Ahmed-mongi/SWE-REQ2)>
+    git clone <(https://github.com/Omar-Mohamed7/Requirement2)>
     
 2. Create a virtual environment and activate it:
     python -m venv venv
